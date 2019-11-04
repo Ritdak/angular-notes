@@ -198,4 +198,4 @@ We can now creaate links using some bulma classes , once the menu is done, we us
   The router is working so we can now inject the router-outlet in the apps template.<br>
 
 The router works so the view updates with the specific component.<br>
-A great single page website!
+A great single page website!"# angular-notes" 
